@@ -52,7 +52,6 @@
                          LED_COLOR_ID_BLUE>;
     };
 };
-};
 / {
     keymap {
         compatible = "zmk,keymap";
